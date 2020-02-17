@@ -13,3 +13,7 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 3. No larger disk may be placed on top of a smaller disk.
 
 With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves required to solve a Tower of Hanoi puzzle is (2^n) − 1, where n is the number of disks.
+
+### III. Quicksort
+
+"Quicksort" is developed by British computer scientist Tony Hoare in 1959. It is also known as "divide-and-conquer algorithm". It first divides the input arrange into two smaller sub-arrays: the low elements and the high elements. It then recursively sorts the sub-arrays.
