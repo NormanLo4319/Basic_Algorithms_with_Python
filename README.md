@@ -17,3 +17,6 @@ With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves r
 ### III. Quicksort
 
 "Quicksort" is developed by British computer scientist Tony Hoare in 1959. It is also known as "divide-and-conquer algorithm". It first divides the input arrange into two smaller sub-arrays: the low elements and the high elements. It then recursively sorts the sub-arrays.
+
+### IV. Merge Sort
+Merge sort is another divide-and-conquer algorithm commonly used in data science. The idea of merge sort is based on the idea of breaking down a list into several sub-lists until each sublist consists of a signle element and merging those sublists in a manner that results into a sorted list.
