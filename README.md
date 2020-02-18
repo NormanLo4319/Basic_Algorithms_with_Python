@@ -20,3 +20,6 @@ With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves r
 
 ### IV. Merge Sort
 Merge sort is another divide-and-conquer algorithm commonly used in data science. The idea of merge sort is based on the idea of breaking down a list into several sub-lists until each sublist consists of a signle element and merging those sublists in a manner that results into a sorted list.
+
+### V. Binary Search
+In the process of data management, we need to use the shortest time to locate and search for the needed information. The term "search" basically refers to an action for locating the needed inforamtion ("Key") from the data set or data base. Binary search, also known as half interval search, is a search algorithm that finds the position of a target value within a sorted array.
