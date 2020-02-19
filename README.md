@@ -33,3 +33,9 @@ Merge sort is another divide-and-conquer algorithm commonly used in data science
 In the process of data management, we need to use the shortest time to locate and search for the needed information. The term "search" basically refers to an action for locating the needed inforamtion ("Key") from the data set or data base. Binary search, also known as half interval search, is a search algorithm that finds the position of a target value within a sorted array.
 
 <img src="./images/binary_search.png">
+
+### VI. Frog Jump
+Frog Jumps algorithm is part of the greedy algorithms. The frog begins at position 0 in the river. Its goal is to get to position n. There are lilypads at various positions. There is always a lilypad at position 0 and position n. The frog can jump at most r units at a time. The goal for this algorithm is to find the path the frog should take to minimize jumps, assuming a soultion exits.
+
+<img src="./images/frog_jump2.png>
+<img src="./images/frog_jump3.png>
