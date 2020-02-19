@@ -37,5 +37,5 @@ In the process of data management, we need to use the shortest time to locate an
 ### VI. Frog Jump
 Frog Jumps algorithm is part of the greedy algorithms. The frog begins at position 0 in the river. Its goal is to get to position n. There are lilypads at various positions. There is always a lilypad at position 0 and position n. The frog can jump at most r units at a time. The goal for this algorithm is to find the path the frog should take to minimize jumps, assuming a soultion exits.
 
-<img src="./images/frog_jump2.png>
-<img src="./images/frog_jump3.png>
+<img src="./images/frog_jump_2.png>
+<img src="./images/frog_jump_3.png>
