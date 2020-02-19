@@ -4,23 +4,7 @@
 
 In mathematics, the Fibonacci polynomials are a polynomial sequence which can be considered as a generalization of the Fibonacci numbers. The polynomials generated in a similar way from the Lucas numbers are called Lucas polynomials. (Wikipedia)
 
-Enter n number of Fibonacci Polynomial: 15
-fib(0)=0
-fib(1)=1
-fib(2)=1
-fib(3)=2
-fib(4)=3
-fib(5)=5
-fib(6)=8
-fib(7)=13
-fib(8)=21
-fib(9)=34
-fib(10)=55
-fib(11)=89
-fib(12)=144
-fib(13)=233
-fib(14)=377
-fib(15)=610
+<img src="./images/fibonacci_polynomial.png">
 
 ### II. Tower of Hanoi
 
@@ -32,12 +16,20 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 
 With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves required to solve a Tower of Hanoi puzzle is (2^n) − 1, where n is the number of disks.
 
+<img src="./images/tower_of_hanoi.png">
+
 ### III. Quicksort
 
 "Quicksort" is developed by British computer scientist Tony Hoare in 1959. It is also known as "divide-and-conquer algorithm". It first divides the input arrange into two smaller sub-arrays: the low elements and the high elements. It then recursively sorts the sub-arrays.
 
+<img src="./images/quicksort.png">
+
 ### IV. Merge Sort
 Merge sort is another divide-and-conquer algorithm commonly used in data science. The idea of merge sort is based on the idea of breaking down a list into several sub-lists until each sublist consists of a signle element and merging those sublists in a manner that results into a sorted list.
 
+<img src="./images/merge_sort.png">
+
 ### V. Binary Search
 In the process of data management, we need to use the shortest time to locate and search for the needed information. The term "search" basically refers to an action for locating the needed inforamtion ("Key") from the data set or data base. Binary search, also known as half interval search, is a search algorithm that finds the position of a target value within a sorted array.
+
+<img src="./images/binary_search.png">
