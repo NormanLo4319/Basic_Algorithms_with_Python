@@ -1,4 +1,5 @@
 ## The Basic Algorithms with Python
+The objective for this repository is to demonstrate the basic concept of problem solving with algorithm.  
 
 ### I. Fibonacci Polynomial
 
