@@ -1,5 +1,5 @@
 ## The Basic Algorithms with Python
-The objective for this repository is to demonstrate the basic concepts of algorithm with Python.  
+The objective for this repository is to demonstrate the basic concepts of different algorithms with Python. Each of these algorithms can be applied to solving differert problems in data science.  
 
 ### I. Fibonacci Polynomial
 
