@@ -43,3 +43,5 @@ Frog Jumps algorithm is part of the greedy algorithms. The frog begins at positi
 
 #### (r = 3)
 <img src="./images/frog_jump_3.png">
+
+Copyright © 2020 Norman Lo
